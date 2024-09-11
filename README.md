@@ -1,15 +1,10 @@
 # Platformer Project
-insert description here
+Daniel D. - Darkflyer7570
 
 
 ## Team Members
-### fchsLemke - Mr. Lemke
-set up repo with readme, git config, and empty project files
-### [Now add each collaborator the same way]
-* [and their contributions]
-* [using this format if you want bullets]
-
+### ME
 
 ## Reflections
-
+  ###I did great tbh, the world building took a while tho
 Your write up will go here
