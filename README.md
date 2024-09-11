@@ -7,4 +7,5 @@ Daniel D. - Darkflyer7570
 
 ## Reflections
   ### I did great tbh, the world building took a while tho
-Your write up will go here
+
+  I wasn't able to get to anything like world building, but I got a massive world, with difficult challenges, and changing biomes.
