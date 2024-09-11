@@ -6,5 +6,5 @@ Daniel D. - Darkflyer7570
 ### ME
 
 ## Reflections
-  ###I did great tbh, the world building took a while tho
+  ### I did great tbh, the world building took a while tho
 Your write up will go here
